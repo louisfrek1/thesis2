@@ -1,0 +1,11 @@
+audio/
+env/
+Spectrograms/
+saved_model/
+.audioclass/
+.class/
+.modelss/
+.test/
+.train/
+.traindata/
+.try/
